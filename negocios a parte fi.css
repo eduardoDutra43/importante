@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(to right, rgb(27, 226, 183), rgb(30, 175, 233));
+    text-align: center;
+    font: normal 14pt Arial;
+    color: white;
+}
+.texto {
+    text-shadow: -2px 3px black;
+}
+p {
+    color: white;
+    font: normal 16pt Arial;
+}
+.oi {
+    color: white;
+    background-image: linear-gradient(to right, rgb(27, 226, 183), rgb(30, 175, 233));
+    width: 123px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 5px 5px gray;
+}
