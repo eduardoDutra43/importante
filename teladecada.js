@@ -38,7 +38,7 @@ function clicar() {
       listaUser.push(
       {
         nome: nome.value,
-        usuário: usuário.value,
+        user: usuário.value,
         senha: senha.value
       }
     )
